@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**TIMOTHY1498/TIMOTHY1498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm timothy1498, and I like computers since I was a kid.
+I am Indonesian.
 
-Here are some ideas to get you started:
+## Languanges 🥀😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python - 5 years
+Lua (ROBLOX) - 3 years
+C/C++ - Studying 
+JavaScript (Web, NodeJS) - Studying
+
+English - 7 years (CEFR: B2)
+Bahasa Indonesia - 12 years.
