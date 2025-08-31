@@ -15,3 +15,9 @@ JavaScript (Web, NodeJS) - Studying
 English - 7 years (CEFR: B2)
 Bahasa Indonesia - 12 years.
 ```
+## Social Media
+
+```
+ROBLOX - https://www.roblox.com/users/5047603088/profile
+Youtube - www.youtube.com/@timothy1498_boi
+```
