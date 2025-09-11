@@ -12,7 +12,7 @@ C/C++ - Studying
 JavaScript (Web, NodeJS) - Studying
 ```
 ```
-English - 7 years (CEFR: B2)
+English - 7 years 
 Bahasa Indonesia - 12 years.
 ```
 ## Social Media
