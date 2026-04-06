@@ -6,8 +6,8 @@ I am Indonesian.
 ## Languanges 🥀😁
 
 ```
-Python - 5 years
-Lua (ROBLOX) - 3 years
+Python
+Lua (ROBLOX) 
 C/C++ - Studying 
 JavaScript (Web, NodeJS) - Studying
 ```
