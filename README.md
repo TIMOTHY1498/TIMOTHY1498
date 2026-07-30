@@ -13,7 +13,7 @@ JavaScript (Web, NodeJS) - Studying
 ```
 ```
 English - 7 years 
-Bahasa Indonesia - 12 years.
+Bahasa Indonesia - Native Languange.
 ```
 ## Social Media
 
