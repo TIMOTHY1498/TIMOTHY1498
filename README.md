@@ -8,8 +8,8 @@ I am Indonesian.
 ```
 Python
 Lua (ROBLOX) 
-C/C++ - Studying 
-JavaScript (Web, NodeJS) - Studying
+C/C++ 
+JavaScript (Web, NodeJS) 
 ```
 ```
 English - 7 years 
